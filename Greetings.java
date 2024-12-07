@@ -20,10 +20,10 @@ public class Greetings
             System.out.println("Bonjour");
             break;
         case 4:
-            System.out.println("Ciao")
+            System.out.println("Ciao");
             break;
         case 5:
-            System.out.println("Hola")
+            System.out.println("Hola");
             break;
         default:
             System.out.println("Invalid Button");
