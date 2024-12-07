@@ -25,8 +25,6 @@ public class Greetings
         case 5:
             System.out.println("Hola")
             break;
-        case 6:
-            
         default:
             System.out.println("Invalid Button");
         }
